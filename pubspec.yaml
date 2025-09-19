@@ -1,4 +1,4 @@
-name: bego_shopping
+name: com.bego.shopping
 description: A new Flutter project for Bego Shopping with Firestore only.
 publish_to: "none"
 version: 1.0.0+1
